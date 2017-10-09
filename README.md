@@ -36,7 +36,7 @@ to see the result. You can use any of the following command line parameters / op
 - `r`: Uses a red background for a presentation. Best used with paperview option (-p) for legibility.
 - `y`: Uses a yellow background for a presentation. Best used with paperview option (-p) for legibility.
 
-Paperview (`p`) and background options (`r`, `g`, `b` and `y`) are ignored for documents that are not slide presentations.
+Paperview (`p`) and background options (`r`, `g`, `b` and `y`) are ignored for documents that are not slide presentations (Documents without slide separators).
 
 #### Examples
 To make a paperview presentation with a yellow background and immediately open it in the default browser:
