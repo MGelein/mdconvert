@@ -1,0 +1,19 @@
+{
+  "name": "markdownconverter",
+  "version": "1.0.0",
+  "description": "A Simple MD Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "html",
+    "converter"
+  ],
+  "author": "Mees Gelein",
+  "license": "ISC",
+  "devDependencies": {
+    "marked": "^0.3.6"
+  }
+}
