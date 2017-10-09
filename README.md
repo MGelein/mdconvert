@@ -36,7 +36,7 @@ to see the result. You can use any of the following command line parameters / op
 - `r`: Uses a red background for a presentation. Best used with paperview option (-p) for legibility.
 - `y`: Uses a yellow background for a presentation. Best used with paperview option (-p) for legibility.
 
-Paperview and background options are ignored for documents that are not slide presentations.
+Paperview (`p`) and background options (`r`, `g`, `b` and `y`) are ignored for documents that are not slide presentations.
 
 #### Examples
 To make a paperview presentation with a yellow background and immediately open it in the default browser:
@@ -50,4 +50,8 @@ mdconvert -pr filename.md
 To make a normal presentation or PDF and immediately open the browser print dialog:
 ```
 mdconvert -f filename.md
+```
+To make a normal presention with a blue background:
+```
+mdconvert -r filename.md
 ```
