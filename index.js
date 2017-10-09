@@ -125,7 +125,7 @@ function showHelp(){
 	console.log("Output:");
 	console.log("The generated presentation or static HTML page will be printed to a .html file with the same name as the source MD file.");
 	console.log("");
-	console.log("Author: Mees Gelein");
+	console.log("For more help please reference the github page: https://github.com/MGelein/mdconvert/");
 }
 
 /**
