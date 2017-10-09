@@ -3,6 +3,7 @@ __MDConvert__ is a simple command line utility that will convert a Markdown file
 the convertor will generate a dynamic slide presentation or a PDF print ready document.
 
 ## Install
+__Currently installing is not yet as easy as it should be, an installer should be implemented soonish__
 To use this utility you need to have both the executable file for your operating system (in case of windows this is `mdconvert.exe`) and the 
 `lib` folder and its contents. 
 
