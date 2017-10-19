@@ -8,6 +8,8 @@ To use this utility you need to have both the executable file for your operating
 `lib` folder and its contents. 
 
 The easiest way to install this program is to clone this repository and then add its location to your PATH (if you're on windows).
+Adding it to your PATH allows you to use the `mdconvert` command system wide in the terminal. If you don't know how to add something to
+the PATH, google it :)
 
 ## Presentation or PDF
 The difference between a presentation and a static HTML page (ready to be a PDF) is the use of slides. Slides can be made by entering
